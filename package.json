@@ -1,0 +1,11 @@
+{
+  "name": "JackelLegsUnited",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SlowlyGamer/JackelLegsUnited.git",
+  "author": "JoshTsch <joshtsch106@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.25.0"
+  }
+}
